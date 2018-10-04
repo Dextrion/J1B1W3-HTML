@@ -1,0 +1,56 @@
+body {
+    background-color: black;
+}
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 20px;
+    overflow: hidden;
+    background-color: darkblue;
+    border-style: solid;
+    border-color: yellow;
+    border-radius: 5px;
+}
+li {
+	display: inline;
+	background-color: darkblue;
+	color: yellow;
+	list-style-type: none;
+	padding: 12px 16px;
+	margin-right: 20px;
+	display: inline;
+	font-size: 25px;
+	border-style: solid;
+	border-color: yellow;
+	float: left;
+}
+.div1 {
+	color: yellow;
+	display: inline-block;
+}
+.div2 {
+	display: inline-block;
+	float: right;
+	vertical-align: top;
+}
+.div3 {
+	display: inline-block;
+	float: left:
+}
+.div4 {
+	color: yellow;
+	display: inline-block;
+	float: right;
+}
+a {
+	text-decoration: none;
+}
+a:link {
+	color: yellow;
+}
+a:visited {
+	color: yellow;
+}
+a:hover {
+	color: white;
+}
